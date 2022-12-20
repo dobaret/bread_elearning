@@ -1,0 +1,27 @@
+{
+  "version": "3.64.27845.0",
+  "course_id": "6oEaoNr07FN",
+  "title": "Quels ingrédients vont dans le pain",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Quels ingrédients vont dans le pain ?"
+    }
+  ],
+  "slides": [
+    {
+      "id": "62MNZHZGBq1",
+      "title": "Poubelle ?",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

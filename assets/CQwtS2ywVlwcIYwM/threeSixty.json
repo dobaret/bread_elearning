@@ -1,0 +1,27 @@
+{
+  "version": "3.64.27845.0",
+  "course_id": "6SETMdb3Ylk",
+  "title": "Température de cuisson du pain",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Température de cuisson du pain"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5drgUcnOQWC",
+      "title": "Cadran",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
